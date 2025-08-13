@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  /* Tes variables personnalisées ici */
+  --color-primary: oklch(0.5 0.2 120);
+}
+
+/* Utilisation stylée dans le CSS si besoin */
